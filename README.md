@@ -17,7 +17,7 @@
 
 <div align="left">
   <a href="https://github.com/etmjr03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilson99noslide&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilson99noslide&layout=compact&theme=tokyonight"/>
 </div>
 
 <h3 align="left">Linguagens e tecnologias</h3>
