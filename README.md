@@ -11,7 +11,7 @@
 ## 👋 Sobre mim
 
 - 💻 1 ano de atuação como desenvolvedor front-end de jogos de simulação empresarial para navegador.  
-- 🛒 Quase 2 anos de experiência como desenvolvedor em um e-commerce.  
+- 🛒 2 anos de experiência como desenvolvedor em um e-commerce.  
 - 🚀 Esse é um GitHub novo criado para expor meus projetos, estudos e experiências.
 
 ---
@@ -35,7 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="40px" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40px" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40px" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40px" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px" />
 </div>
 
 ---
